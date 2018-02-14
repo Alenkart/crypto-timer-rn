@@ -1,3 +1,3 @@
-#crypto-timer-rn
+crypto-timer-rn
 
 React native webview example.
